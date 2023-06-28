@@ -1,7 +1,7 @@
 # Test Azure Load Testing with public service with access restrictions
 
 The following example shows how to test a public service with access restrictions using Azure Load Testing. 
-This scenario is described in the [Azure Load Testing documentation](https://learn.microsoft.com/en-us/azure/load-testing/concept-azure-load-testing-vnet-injection#scenario-load-test-an-azure-hosted-private-endpoint).
+This scenario is described in the [Azure Load Testing documentation](https://learn.microsoft.com/en-us/azure/load-testing/concept-azure-load-testing-vnet-injection#scenario-load-test-a-public-endpoint-with-access-restrictions).
 
 ## Create the demo app
 
